@@ -1,4 +1,8 @@
 _repo: Gil-Blas-Santillanalaisen-elamanvaiheet_48204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Sage, Alain René
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48204#Gil-Blas-Santillanalaisen-elamanvaiheet
 gutenberg_issued: '2015-02-08'
 gutenberg_type: Text
 identifiers:
